@@ -3,11 +3,11 @@
  *  
  *  If you need money to test start stack upgrade, un-comment GameManager.cs 127. line to get 10.000 coins.
  *  
- *  This case  has been completed within 21 work hours -> on 22/07/2022 Friday      => 3 work hours
+ *  This case  has been completed within 22 work hours -> on 22/07/2022 Friday      => 3 work hours
  *                                                     -> on 23/07/2022 Saturday    => 4 work hours
  *                                                     -> on 24/07/2022 Sunday      => 6 work hours
  *                                                     -> on 25/07/2022 Monday      => 6 work hours
- *                                                     -> on 26/07/2022 Tuesday     => 2 work hours(mostly github upload)
+ *                                                     -> on 26/07/2022 Tuesday     => 3 work hours(mostly github upload)
  *                                                     
  */
 
