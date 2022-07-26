@@ -1,0 +1,351 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 831e4be764549bf4da4299a7c82382e7, type: 3}
+  m_Name: Level1Data
+  m_EditorClassIdentifier: 
+  SceneObjects:
+  - tag: MainPlatform
+    position: {x: 0, y: -0.23, z: 182.21}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: PlatformSide
+    position: {x: -2.63, y: -0.128, z: 302.01}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: MainPlatform
+    position: {x: 0, y: -0.23, z: 172.21}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: MainPlatform
+    position: {x: 0, y: -0.23, z: 0}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: PlatformSide
+    position: {x: 2.63, y: -0.128, z: 162.21}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: PlatformSide
+    position: {x: 2.63, y: -0.128, z: 202.21}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: PlatformSide
+    position: {x: 2.63, y: -0.128, z: 222.1}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: PlatformSide
+    position: {x: -2.63, y: -0.128, z: 0}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: PlatformSide
+    position: {x: 2.63, y: -0.128, z: 182.21}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: PlatformSide
+    position: {x: -2.63, y: -0.128, z: 202.21}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: Environment3
+    position: {x: -13.06, y: -3.3, z: 216.68}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: PlatformSide
+    position: {x: 2.63, y: -0.128, z: 127.880005}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: PlatformSide
+    position: {x: -2.63, y: -0.128, z: 127.880005}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: MainPlatform
+    position: {x: 0, y: -0.23, z: 127.880005}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: MainPlatform
+    position: {x: 0, y: -0.23, z: 162.21}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: CheckPoint1
+    position: {x: 0, y: 0, z: 44.73}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: PlatformSide
+    position: {x: -2.63, y: -0.128, z: 182.21}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: PlatformSide
+    position: {x: 2.63, y: -0.128, z: 272.01}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: PlatformSide
+    position: {x: 2.63, y: -0.128, z: 292.01}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: PlatformSide
+    position: {x: -2.63, y: -0.128, z: 292.01}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: PlatformSide
+    position: {x: 2.63, y: -0.128, z: 147.88}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: PlatformSide
+    position: {x: -2.63, y: -0.128, z: 147.88}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: MainPlatform
+    position: {x: 0, y: -0.23, z: 147.88}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: PlatformSide
+    position: {x: 2.63, y: -0.128, z: 20}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: PlatformSide
+    position: {x: -2.63, y: -0.128, z: 20}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: MainPlatform
+    position: {x: 0, y: -0.23, z: 20}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: PlatformSide
+    position: {x: -2.63, y: -0.128, z: 192.21}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: PlatformSide
+    position: {x: 2.63, y: -0.128, z: 252.1}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: PlatformSide
+    position: {x: 2.63, y: -0.128, z: 10}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: PlatformSide
+    position: {x: -2.63, y: -0.128, z: 10}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: MainPlatform
+    position: {x: 0, y: -0.23, z: 10}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: PlatformSide
+    position: {x: 2.63, y: -0.128, z: 53.94}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: PlatformSide
+    position: {x: -2.63, y: -0.128, z: 53.94}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: MainPlatform
+    position: {x: 0, y: -0.23, z: 53.94}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: MainPlatform
+    position: {x: 0, y: -0.23, z: 202.21}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: Environment2
+    position: {x: 11.4, y: -3.2, z: 126.4}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: PlatformSide
+    position: {x: 2.63, y: -0.128, z: 192.21}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: CheckPoint2
+    position: {x: 0, y: 0, z: 98.672005}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: PlatformSide
+    position: {x: 2.63, y: -0.128, z: 212.1}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: MainPlatform
+    position: {x: 0, y: -0.23, z: 262.01}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: PlatformSide
+    position: {x: 2.63, y: -0.128, z: 73.94}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: PlatformSide
+    position: {x: -2.63, y: -0.128, z: 73.94}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: MainPlatform
+    position: {x: 0, y: -0.23, z: 73.94}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: PlatformSide
+    position: {x: 2.63, y: -0.128, z: 232.1}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: PlatformSide
+    position: {x: 2.63, y: -0.128, z: 282.01}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: MainPlatform
+    position: {x: 0, y: -0.23, z: 232.1}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: PlatformSide
+    position: {x: 2.63, y: -0.128, z: 83.94}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: PlatformSide
+    position: {x: -2.63, y: -0.128, z: 83.94}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: MainPlatform
+    position: {x: 0, y: -0.23, z: 83.94}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: PlatformSide
+    position: {x: 2.63, y: -0.128, z: 40}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: PlatformSide
+    position: {x: -2.63, y: -0.128, z: 40}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: MainPlatform
+    position: {x: 0, y: -0.23, z: 40}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: PlatformSide
+    position: {x: -2.63, y: -0.128, z: 252.1}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: PlatformSide
+    position: {x: -2.63, y: -0.128, z: 282.01}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: Environment2
+    position: {x: 27.8, y: -3.6, z: 264.57}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: PlatformSide
+    position: {x: -2.63, y: -0.128, z: 272.01}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: CheckPoint3
+    position: {x: 0, y: 0, z: 152.614}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: PlatformSide
+    position: {x: -2.63, y: -0.128, z: 212.1}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: MainPlatform
+    position: {x: 0, y: -0.23, z: 292.01}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: MainPlatform
+    position: {x: 0, y: -0.23, z: 212.1}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: PlatformSide
+    position: {x: 2.63, y: -0.128, z: 242.1}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: PlatformSide
+    position: {x: 2.63, y: -0.128, z: 63.94}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: PlatformSide
+    position: {x: -2.63, y: -0.128, z: 63.94}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: MainPlatform
+    position: {x: 0, y: -0.23, z: 63.94}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: PlatformSide
+    position: {x: 2.63, y: -0.128, z: 302.01}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: PlatformSide
+    position: {x: -2.63, y: -0.128, z: 172.21}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: PlatformSide
+    position: {x: 2.63, y: -0.128, z: 262.01}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: MainPlatform
+    position: {x: 0, y: -0.23, z: 272.01}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: Environment1
+    position: {x: 23.17, y: -4.2, z: 72.3}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: PlatformSide
+    position: {x: 2.63, y: -0.128, z: 107.880005}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: PlatformSide
+    position: {x: -2.63, y: -0.128, z: 107.880005}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: MainPlatform
+    position: {x: 0, y: -0.23, z: 107.880005}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: Environment3
+    position: {x: -9.77, y: -3.32, z: 69.98}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: MainPlatform
+    position: {x: 0, y: -0.23, z: 282.01}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: MainPlatform
+    position: {x: 0, y: -0.23, z: 222.1}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: PlatformSide
+    position: {x: -2.63, y: -0.128, z: 262.01}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: Environment2
+    position: {x: -31.1, y: -3.6, z: 146.8}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: PlatformSide
+    position: {x: 2.63, y: -0.128, z: 137.88}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: PlatformSide
+    position: {x: -2.63, y: -0.128, z: 137.88}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: MainPlatform
+    position: {x: 0, y: -0.23, z: 137.88}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: MainPlatform
+    position: {x: 0, y: -0.23, z: 252.1}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: MainPlatform
+    position: {x: 0, y: -0.23, z: 302.01}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: MainPlatform
+    position: {x: 0, y: -0.23, z: 242.1}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: PlatformSide
+    position: {x: 2.63, y: -0.128, z: 93.94}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: PlatformSide
+    position: {x: -2.63, y: -0.128, z: 93.94}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: MainPlatform
+    position: {x: 0, y: -0.23, z: 93.94}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: PlatformSide
+    position: {x: 2.63, y: -0.128, z: 0}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: MainPlatform
+    position: {x: 0, y: -0.23, z: 192.21}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: PlatformSide
+    position: {x: -2.63, y: -0.128, z: 232.1}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: PlatformSide
+    position: {x: -2.63, y: -0.128, z: 162.21}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: PlatformSide
+    position: {x: -2.63, y: -0.128, z: 222.1}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: PlatformSide
+    position: {x: 2.63, y: -0.128, z: 117.880005}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: PlatformSide
+    position: {x: -2.63, y: -0.128, z: 117.880005}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: MainPlatform
+    position: {x: 0, y: -0.23, z: 117.880005}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: PlatformSide
+    position: {x: -2.63, y: -0.128, z: 242.1}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: PlatformSide
+    position: {x: 2.63, y: -0.128, z: 30}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: PlatformSide
+    position: {x: -2.63, y: -0.128, z: 30}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: MainPlatform
+    position: {x: 0, y: -0.23, z: 30}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: PlatformSide
+    position: {x: 2.63, y: -0.128, z: 172.21}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: Environment1
+    position: {x: -7.55, y: -3.51, z: 26.39}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: MainPlatform
+    position: {x: 0, y: -0.86800003, z: 100.908005}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: MainPlatform
+    position: {x: 0, y: -0.86800003, z: 46.966}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: MainPlatform
+    position: {x: 0, y: -0.86800003, z: 154.84999}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: HolePlatform2
+    position: {x: 0, y: -0.698, z: 100.896}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: HolePlatform1
+    position: {x: 0, y: -0.698, z: 46.954}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: HolePlatform3
+    position: {x: 0, y: -0.698, z: 154.838}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: PlatformSide
+    position: {x: 2.63, y: 0.055999994, z: 100.90501}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: PlatformSide
+    position: {x: -2.63, y: 0.055999994, z: 46.962997}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: PlatformSide
+    position: {x: -2.63, y: 0.055999994, z: 154.847}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: PlatformSide
+    position: {x: 2.63, y: 0.055999994, z: 154.847}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: PlatformSide
+    position: {x: -2.63, y: 0.055999994, z: 100.90501}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
+  - tag: PlatformSide
+    position: {x: 2.63, y: 0.055999994, z: 46.962997}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
